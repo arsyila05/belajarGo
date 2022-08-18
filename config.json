@@ -1,0 +1,5 @@
+{
+    "connection_string": "root:arsyila105@tcp(localhost:3306)/test-golang?charset=utf8mb4&parseTime=True&loc=Local",
+    "port": 8080
+    
+}
